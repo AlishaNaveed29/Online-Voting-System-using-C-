@@ -1,6 +1,6 @@
-# 🗳️ Online Voting System (C++ OOP Project)
+#  Online Voting System (C++ OOP Project)
 
-## 📌 Overview
+##  Overview
 The Online Voting System is a console-based application developed in C++ using Object-Oriented Programming (OOP) concepts. This project simulates a basic election system where users can enter their personal details and cast votes through a simple and interactive menu-driven interface.
 
 The system ensures fair participation by validating important user information such as CNIC, mobile number, and age. Only users aged 18 or above are allowed to vote, and duplicate voting is prevented through CNIC verification. Votes are recorded for different political parties, and the system calculates results to determine the winning party.
@@ -9,20 +9,20 @@ This project is designed for educational purposes and demonstrates how real-worl
 
 ---
 
-## 🚀 Features
-- 🔐 CNIC-based voter validation  
-- 👤 Input voter details (Name, Father Name, CNIC, Mobile Number, Age)  
-- ✅ Age verification (18+ required)  
-- 🚫 Duplicate vote prevention  
-- 🗳️ Voting options for multiple parties (TLP, PTI, PMLN, PPP)  
-- 📊 Display total number of votes  
-- 📈 Show votes for each party  
-- 🏆 Announce the winning party  
-- 🖥️ User-friendly menu-driven console interface  
+##  Features
+-  CNIC-based voter validation  
+-  Input voter details (Name, Father Name, CNIC, Mobile Number, Age)  
+-  Age verification (18+ required)  
+-  Duplicate vote prevention  
+-  Voting options for multiple parties (TLP, PTI, PMLN, PPP)  
+-  Display total number of votes  
+-  Show votes for each party  
+-  Announce the winning party  
+-  User-friendly menu-driven console interface  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **C++**
 - Standard Libraries:
   - `<iostream>`
@@ -31,7 +31,7 @@ This project is designed for educational purposes and demonstrates how real-worl
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Online-Voting-System-using-C-/
 │
@@ -41,7 +41,7 @@ Online-Voting-System-using-C-/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
@@ -62,7 +62,7 @@ g++ TRAVEL_MANAGMENT_SYSTEM_oop_project.cpp -o voting
 
 ---
 
-## 🎯 Functional Modules
+## Functional Modules
 - **Cast Vote** → Enter user details and vote for a party  
 - **Show Total Votes** → Displays total votes cast  
 - **Party Votes** → Shows votes received by each party  
@@ -71,7 +71,7 @@ g++ TRAVEL_MANAGMENT_SYSTEM_oop_project.cpp -o voting
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Console-based application (no GUI)  
 - Basic input validation  
 - Limited security features  
@@ -79,7 +79,7 @@ g++ TRAVEL_MANAGMENT_SYSTEM_oop_project.cpp -o voting
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 - Add graphical user interface (GUI)  
 - Integrate database (MySQL/SQLite)  
 - Improve authentication and security  
@@ -88,10 +88,10 @@ g++ TRAVEL_MANAGMENT_SYSTEM_oop_project.cpp -o voting
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Alisha Naveed
 
 ---
 
-## 📜 License
+##  License
 This project is for educational purposes only.
