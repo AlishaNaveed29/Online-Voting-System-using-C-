@@ -29,17 +29,6 @@ This project is designed for educational purposes and demonstrates how real-worl
   - `<fstream>`
 - `<windows.h>` (used for console operations like screen clearing)
 
----
-
-##  Project Structure
-```
-Online-Voting-System-using-C-/
-│
-├── TRAVEL_MANAGMENT_SYSTEM_oop_project.cpp
-└── README.md
-```
-
----
 
 ##  How to Run
 
@@ -47,18 +36,9 @@ Online-Voting-System-using-C-/
 ```bash
 git clone https://github.com/AlishaNaveed29/Online-Voting-System-using-C-.git
 ```
-
 2. Open the project in any C++ compiler (VS Code, Dev C++, CodeBlocks, etc.)
-
-3. Compile the program:
-```bash
-g++ TRAVEL_MANAGMENT_SYSTEM_oop_project.cpp -o voting
-```
-
-4. Run the program:
-```bash
-./voting
-```
+3. Compile the program
+4. Run the program
 
 ---
 
